@@ -1,0 +1,4 @@
+Abrir o terminal na aplicação react e instalar a biblioteca 
+
+
+npm install styled-components --save
